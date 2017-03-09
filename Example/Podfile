@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PodSpecView_Example' do
+  pod 'PodSpecView', :path => '../'
+
+  target 'PodSpecView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
