@@ -1,5 +1,7 @@
 PODS:
-  - PodSpecView (0.1.0)
+  - PodSpecView (0.1.0):
+    - PodSpecView/UIViewMutils (= 0.1.0)
+  - PodSpecView/UIViewMutils (0.1.0)
 
 DEPENDENCIES:
   - PodSpecView (from `../`)
@@ -9,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PodSpecView: 75fadd1e3c1c585c17e32bb7ef0a3b97ae970d9c
+  PodSpecView: b3bfd38dc638bb28fb04b203a3d0e2f3560086c2
 
 PODFILE CHECKSUM: 29d328bf98de369fb461bf782ed3fcd629395f1b
 
